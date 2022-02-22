@@ -8,8 +8,8 @@ See this [Auto-mpg dataset](https://www.kaggle.com/uciml/autompg-dataset) with t
 
 ## Test
 Test with new values with a JSON Request, such as:
-"""
+'''
 {
 "instances": [[1, 2, 3, 2, -2, -1, -2, -1, 0]]
 }
-"""
+'''
