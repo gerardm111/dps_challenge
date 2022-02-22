@@ -6,7 +6,7 @@
 See this [Auto-mpg dataset](https://www.kaggle.com/uciml/autompg-dataset) with technical spec of cars.
 ## Deployed endpoint
 
-##Test
+## Test
 Test with new values with a JSON Request, such as:
 """
 {
